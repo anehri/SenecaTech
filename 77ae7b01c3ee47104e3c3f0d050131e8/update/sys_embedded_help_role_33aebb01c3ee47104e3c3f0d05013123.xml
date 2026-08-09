@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1860165_seneca_0.device_management" name="x_1860165_seneca_0.device_management">b3aebb01c3ee47104e3c3f0d05013114</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-05 16:55:56</sys_created_on>
+        <sys_id>33aebb01c3ee47104e3c3f0d05013123</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b3aebb01c3ee47104e3c3f0d05013114</sys_name>
+        <sys_package display_value="SenecaTech" source="x_1860165_seneca_0">77ae7b01c3ee47104e3c3f0d050131e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SenecaTech">77ae7b01c3ee47104e3c3f0d050131e8</sys_scope>
+        <sys_update_name>sys_embedded_help_role_33aebb01c3ee47104e3c3f0d05013123</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-05 16:55:56</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
