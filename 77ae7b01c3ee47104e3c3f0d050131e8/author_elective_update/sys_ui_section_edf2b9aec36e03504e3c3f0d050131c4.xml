@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Description" section_id="edf2b9aec36e03504e3c3f0d050131c4" sys_domain="global" table="x_1860165_seneca_0_device_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-09 22:36:22</sys_created_on>
+            <sys_id>fdf2f9aec36e03504e3c3f0d05013105</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Description" display_value="Description" name="x_1860165_seneca_0_device_request" sys_domain="global" view="Default view">edf2b9aec36e03504e3c3f0d050131c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-09 22:36:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-09 22:36:22</sys_created_on>
+            <sys_id>b9f2f9aec36e03504e3c3f0d05013106</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Description" display_value="Description" name="x_1860165_seneca_0_device_request" sys_domain="global" view="Default view">edf2b9aec36e03504e3c3f0d050131c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-09 22:36:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-09 22:36:22</sys_created_on>
+            <sys_id>75f2f9aec36e03504e3c3f0d05013107</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Description" display_value="Description" name="x_1860165_seneca_0_device_request" sys_domain="global" view="Default view">edf2b9aec36e03504e3c3f0d050131c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-09 22:36:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Description</caption>
+            <header>false</header>
+            <name>x_1860165_seneca_0_device_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-09 22:36:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>edf2b9aec36e03504e3c3f0d050131c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1860165_seneca_0_device_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SenecaTech" source="x_1860165_seneca_0">77ae7b01c3ee47104e3c3f0d050131e8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SenecaTech">77ae7b01c3ee47104e3c3f0d050131e8</sys_scope>
+            <sys_update_name>sys_ui_section_edf2b9aec36e03504e3c3f0d050131c4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-09 22:36:21</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SenecaTech">77ae7b01c3ee47104e3c3f0d050131e8</application>
+        <file_path/>
+        <instance_id>7c207c323b864750986d048aa4e45a4e</instance_id>
+        <instance_name>dev439282</instance_name>
+        <name>sys_ui_section_edf2b9aec36e03504e3c3f0d050131c4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Description" section_id="edf2b9aec36e03504e3c3f0d050131c4" sys_domain="global" table="x_1860165_seneca_0_device_request" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-08-09 22:36:22</sys_created_on><sys_id>fdf2f9aec36e03504e3c3f0d05013105</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Description" display_value="Description" name="x_1860165_seneca_0_device_request" sys_domain="global" view="Default view">edf2b9aec36e03504e3c3f0d050131c4</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-08-09 22:36:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-08-09 22:36:22</sys_created_on><sys_id>b9f2f9aec36e03504e3c3f0d05013106</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Description" display_value="Description" name="x_1860165_seneca_0_device_request" sys_domain="global" view="Default view">edf2b9aec36e03504e3c3f0d050131c4</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-08-09 22:36:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>work_notes</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-08-09 22:36:22</sys_created_on><sys_id>75f2f9aec36e03504e3c3f0d05013107</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Description" display_value="Description" name="x_1860165_seneca_0_device_request" sys_domain="global" view="Default view">edf2b9aec36e03504e3c3f0d050131c4</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-08-09 22:36:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Description</caption><header>false</header><name>x_1860165_seneca_0_device_request</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-08-09 22:36:21</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>edf2b9aec36e03504e3c3f0d050131c4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1860165_seneca_0_device_request</sys_name><sys_overrides/><sys_package display_value="SenecaTech" source="x_1860165_seneca_0">77ae7b01c3ee47104e3c3f0d050131e8</sys_package><sys_policy/><sys_scope display_value="SenecaTech">77ae7b01c3ee47104e3c3f0d050131e8</sys_scope><sys_update_name>sys_ui_section_edf2b9aec36e03504e3c3f0d050131c4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-08-09 22:36:21</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>92188756</payload_hash>
+        <record_name>Device Request</record_name>
+        <reverted_from/>
+        <source>ce19c991c32a87104e3c3f0d050131ed</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-09 22:36:22</sys_created_on>
+        <sys_id>7df2f9aec36e03504e3c3f0d0501310a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19fe8ab86060000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-09 22:36:22</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>31f2f9aea16e035089c08ecfb4d00c0a</update_guid>
+        <update_guid_history>31f2f9aea16e035089c08ecfb4d00c0a:92188756</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-09 22:39:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>1ecc251acc2a4e83884adf695eda03d1</sys_id>
+        <sys_metadata>edf2b9aec36e03504e3c3f0d050131c4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Description</sys_name>
+        <sys_package display_value="SenecaTech" source="x_1860165_seneca_0">77ae7b01c3ee47104e3c3f0d050131e8</sys_package>
+        <sys_parent display_value="Device Request">2471c095c3ee47104e3c3f0d0501314f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="SenecaTech">77ae7b01c3ee47104e3c3f0d050131e8</sys_scope>
+        <sys_scope_delete display_value="">3290306a4fbb446dabf45bbe56d162e1</sys_scope_delete>
+        <sys_update_name>sys_ui_section_edf2b9aec36e03504e3c3f0d050131c4</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_edf2b9aec36e03504e3c3f0d050131c4">7df2f9aec36e03504e3c3f0d0501310a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-09 22:39:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

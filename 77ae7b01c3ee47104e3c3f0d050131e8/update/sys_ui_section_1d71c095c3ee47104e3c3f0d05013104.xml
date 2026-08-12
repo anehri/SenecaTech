@@ -4,167 +4,139 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-08-05 17:08:02</sys_created_on>
-            <sys_id>9171c095c3ee47104e3c3f0d05013108</sys_id>
+            <sys_created_on>2026-08-12 00:42:14</sys_created_on>
+            <sys_id>cdf2e0dfc3a287504e3c3f0d05013130</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1860165_seneca_0_device_request" sys_domain="global" view="Default view">1d71c095c3ee47104e3c3f0d05013104</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-08-05 17:08:02</sys_updated_on>
+            <sys_updated_on>2026-08-12 00:42:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>assigned_to</element>
+            <element>u_reference_1</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-08-05 17:08:02</sys_created_on>
-            <sys_id>dd71c095c3ee47104e3c3f0d05013109</sys_id>
+            <sys_created_on>2026-08-12 00:42:14</sys_created_on>
+            <sys_id>c1f2e0dfc3a287504e3c3f0d05013132</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1860165_seneca_0_device_request" sys_domain="global" view="Default view">1d71c095c3ee47104e3c3f0d05013104</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-08-05 17:08:02</sys_updated_on>
+            <sys_updated_on>2026-08-12 00:42:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>cmdb_ci</element>
+            <element>u_reference_2</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-08-05 17:08:02</sys_created_on>
-            <sys_id>99710495c3ee47104e3c3f0d05013198</sys_id>
+            <sys_created_on>2026-08-12 00:42:14</sys_created_on>
+            <sys_id>8df2e0dfc3a287504e3c3f0d05013132</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1860165_seneca_0_device_request" sys_domain="global" view="Default view">1d71c095c3ee47104e3c3f0d05013104</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-08-05 17:08:02</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>active</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-08-05 17:08:02</sys_created_on>
-            <sys_id>11710495c3ee47104e3c3f0d0501319a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1860165_seneca_0_device_request" sys_domain="global" view="Default view">1d71c095c3ee47104e3c3f0d05013104</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-08-05 17:08:02</sys_updated_on>
+            <sys_updated_on>2026-08-12 00:42:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>4</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-08-05 17:08:02</sys_created_on>
-            <sys_id>55710495c3ee47104e3c3f0d05013199</sys_id>
+            <sys_created_on>2026-08-12 00:42:14</sys_created_on>
+            <sys_id>49f2e0dfc3a287504e3c3f0d05013133</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1860165_seneca_0_device_request" sys_domain="global" view="Default view">1d71c095c3ee47104e3c3f0d05013104</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-08-05 17:08:02</sys_updated_on>
+            <sys_updated_on>2026-08-12 00:42:14</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>priority</element>
+            <element>u_string_3</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-12 00:42:14</sys_created_on>
+            <sys_id>05f2e0dfc3a287504e3c3f0d05013134</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1860165_seneca_0_device_request" sys_domain="global" view="Default view">1d71c095c3ee47104e3c3f0d05013104</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-12 00:42:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_date_4</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-08-05 17:08:02</sys_created_on>
-            <sys_id>d9710495c3ee47104e3c3f0d0501319a</sys_id>
+            <sys_created_on>2026-08-12 00:42:14</sys_created_on>
+            <sys_id>cdf2e0dfc3a287504e3c3f0d05013134</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1860165_seneca_0_device_request" sys_domain="global" view="Default view">1d71c095c3ee47104e3c3f0d05013104</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-08-05 17:08:02</sys_updated_on>
+            <sys_updated_on>2026-08-12 00:42:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>state</element>
+            <element>u_choice_1</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-08-05 17:08:02</sys_created_on>
-            <sys_id>95710495c3ee47104e3c3f0d0501319b</sys_id>
+            <sys_created_on>2026-08-12 00:42:14</sys_created_on>
+            <sys_id>41f2e0dfc3a287504e3c3f0d05013142</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1860165_seneca_0_device_request" sys_domain="global" view="Default view">1d71c095c3ee47104e3c3f0d05013104</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-08-05 17:08:02</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>parent</element>
-            <position>7</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-08-05 17:08:03</sys_created_on>
-            <sys_id>51710495c3ee47104e3c3f0d0501319c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1860165_seneca_0_device_request" sys_domain="global" view="Default view">1d71c095c3ee47104e3c3f0d05013104</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-08-05 17:08:03</sys_updated_on>
+            <sys_updated_on>2026-08-12 00:42:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>8</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-08-05 17:08:03</sys_created_on>
-            <sys_id>1d710495c3ee47104e3c3f0d0501319c</sys_id>
+            <sys_created_on>2026-08-12 00:42:14</sys_created_on>
+            <sys_id>0df2e0dfc3a287504e3c3f0d05013142</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1860165_seneca_0_device_request" sys_domain="global" view="Default view">1d71c095c3ee47104e3c3f0d05013104</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-08-05 17:08:03</sys_updated_on>
+            <sys_updated_on>2026-08-12 00:42:14</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>short_description</element>
+            <element>u_string_2</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-12 00:42:14</sys_created_on>
+            <sys_id>c5f2e0dfc3a287504e3c3f0d05013143</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1860165_seneca_0_device_request" sys_domain="global" view="Default view">1d71c095c3ee47104e3c3f0d05013104</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-12 00:42:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_class_name</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-08-05 17:08:03</sys_created_on>
-            <sys_id>d5710495c3ee47104e3c3f0d0501319d</sys_id>
+            <sys_created_on>2026-08-12 00:42:14</sys_created_on>
+            <sys_id>81f2e0dfc3a287504e3c3f0d05013144</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1860165_seneca_0_device_request" sys_domain="global" view="Default view">1d71c095c3ee47104e3c3f0d05013104</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-08-05 17:08:03</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>description</element>
-            <position>10</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-08-05 17:08:03</sys_created_on>
-            <sys_id>91710495c3ee47104e3c3f0d0501319e</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1860165_seneca_0_device_request" sys_domain="global" view="Default view">1d71c095c3ee47104e3c3f0d05013104</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-08-05 17:08:03</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>work_notes</element>
-            <position>11</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-08-05 17:08:03</sys_created_on>
-            <sys_id>5d710495c3ee47104e3c3f0d0501319e</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1860165_seneca_0_device_request" sys_domain="global" view="Default view">1d71c095c3ee47104e3c3f0d05013104</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-08-05 17:08:03</sys_updated_on>
+            <sys_updated_on>2026-08-12 00:42:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
