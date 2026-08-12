@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" extends="task" table="x_1860165_seneca_0_device_request">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="" extends="cmdb_ci" table="x_1860165_seneca_0_ai_device">
         <active>true</active>
         <array>false</array>
         <attributes>enforce_dot_walk_cross_scope_access=true</attributes>
@@ -30,7 +30,7 @@
         <internal_type display_value="Collection">collection</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <name>x_1860165_seneca_0_device_request</name>
+        <name>x_1860165_seneca_0_ai_device</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -47,14 +47,14 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2026-08-05 17:08:00</sys_created_on>
-        <sys_name>x_1860165_seneca_0_device_request</sys_name>
+        <sys_created_on>2026-08-06 00:24:39</sys_created_on>
+        <sys_name>x_1860165_seneca_0_ai_device</sys_name>
         <sys_package display_value="SenecaTech" source="x_1860165_seneca_0">77ae7b01c3ee47104e3c3f0d050131e8</sys_package>
         <sys_policy/>
         <sys_scope display_value="SenecaTech">77ae7b01c3ee47104e3c3f0d050131e8</sys_scope>
-        <sys_update_name>sys_dictionary_x_1860165_seneca_0_device_request_NULL</sys_update_name>
+        <sys_update_name>sys_dictionary_x_1860165_seneca_0_ai_device_null</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-08-05 17:08:00</sys_updated_on>
+        <sys_updated_on>2026-08-06 00:24:39</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

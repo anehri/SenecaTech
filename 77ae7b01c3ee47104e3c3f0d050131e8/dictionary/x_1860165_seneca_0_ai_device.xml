@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="b86569d9c3ea87104e3c3f0d050131fb" extends="cmdb_ci" label="AI Device" max_length="40" name="x_1860165_seneca_0_ai_device" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Device Category" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Environmental Sensor" sequence="3" value="environmental sensor"/>
+                <element inactive_on_update="false" label="AR Glasses" sequence="1" value="ar glasses"/>
+                <element inactive_on_update="false" label="Safety Drone" sequence="0" value="safety drone"/>
+                <element inactive_on_update="false" label="Smart Hats" sequence="2" value="smart hats"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true,omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="New Price" max_length="20" name="u_price_2" type="price"/>
+    </element>
+</database>

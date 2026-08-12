@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_choice_1" table="x_1860165_seneca_0_ai_device" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_choice_1</element>
+            <name>x_1860165_seneca_0_ai_device</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-06 01:02:41</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_choice_1</sys_name>
+            <sys_package display_value="SenecaTech" source="x_1860165_seneca_0">77ae7b01c3ee47104e3c3f0d050131e8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SenecaTech">77ae7b01c3ee47104e3c3f0d050131e8</sys_scope>
+            <sys_update_name>sys_choice_x_1860165_seneca_0_ai_device_u_choice_1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-06 01:02:41</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Safety Drone</label>
+            <language>en</language>
+            <name>x_1860165_seneca_0_ai_device</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-06 01:02:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-06 01:02:41</sys_updated_on>
+            <value>safety drone</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AR Glasses</label>
+            <language>en</language>
+            <name>x_1860165_seneca_0_ai_device</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-06 01:02:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-06 01:02:41</sys_updated_on>
+            <value>ar glasses</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Smart Hats</label>
+            <language>en</language>
+            <name>x_1860165_seneca_0_ai_device</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-06 01:02:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-06 01:02:41</sys_updated_on>
+            <value>smart hats</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Environmental Sensor</label>
+            <language>en</language>
+            <name>x_1860165_seneca_0_ai_device</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-06 01:02:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-06 01:02:42</sys_updated_on>
+            <value>environmental sensor</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

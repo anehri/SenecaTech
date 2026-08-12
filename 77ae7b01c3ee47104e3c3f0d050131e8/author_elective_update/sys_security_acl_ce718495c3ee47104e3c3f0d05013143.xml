@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>true</advanced>
+        <applies_to/>
+        <condition/>
+        <controlled_by_refs/>
+        <decision_type>allow</decision_type>
+        <description>Allow create for records in x_1860165_seneca_0_device_request, never (all ACL conditions are empty).</description>
+        <local_or_existing>Existing</local_or_existing>
+        <name>x_1860165_seneca_0_device_request</name>
+        <operation display_value="create">create</operation>
+        <script><![CDATA[answer = gs.getSession().isLoggedIn();
+if (!answer) {
+    answer = gs.getProperty('glide.security.allow_unauth_roleless_acl', false);
+}]]></script>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-05 17:08:05</sys_created_on>
+        <sys_id>ce718495c3ee47104e3c3f0d05013143</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>x_1860165_seneca_0_device_request</sys_name>
+        <sys_package display_value="SenecaTech" source="x_1860165_seneca_0">77ae7b01c3ee47104e3c3f0d050131e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SenecaTech">77ae7b01c3ee47104e3c3f0d050131e8</sys_scope>
+        <sys_update_name>sys_security_acl_ce718495c3ee47104e3c3f0d05013143</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2026-08-07 16:51:03</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SenecaTech">77ae7b01c3ee47104e3c3f0d050131e8</application>
+        <file_path/>
+        <instance_id>7c207c323b864750986d048aa4e45a4e</instance_id>
+        <instance_name>dev439282</instance_name>
+        <name>sys_security_acl_ce718495c3ee47104e3c3f0d05013143</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_security_acl"&gt;&lt;sys_security_acl action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;admin_overrides&gt;true&lt;/admin_overrides&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;applies_to/&gt;&lt;condition/&gt;&lt;controlled_by_refs/&gt;&lt;decision_type&gt;allow&lt;/decision_type&gt;&lt;description&gt;Allow create for records in x_1860165_seneca_0_device_request, never (all ACL conditions are empty).&lt;/description&gt;&lt;local_or_existing&gt;Existing&lt;/local_or_existing&gt;&lt;name&gt;x_1860165_seneca_0_device_request&lt;/name&gt;&lt;operation display_value="create"&gt;create&lt;/operation&gt;&lt;script&gt;&lt;![CDATA[answer = gs.getSession().isLoggedIn();
+if (!answer) {
+    answer = gs.getProperty('glide.security.allow_unauth_roleless_acl', false);
+}]]&gt;&lt;/script&gt;&lt;security_attribute/&gt;&lt;sys_class_name&gt;sys_security_acl&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-08-05 17:08:05&lt;/sys_created_on&gt;&lt;sys_id&gt;ce718495c3ee47104e3c3f0d05013143&lt;/sys_id&gt;&lt;sys_mod_count&gt;4&lt;/sys_mod_count&gt;&lt;sys_name&gt;x_1860165_seneca_0_device_request&lt;/sys_name&gt;&lt;sys_package display_value="SenecaTech" source="x_1860165_seneca_0"&gt;77ae7b01c3ee47104e3c3f0d050131e8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="SenecaTech"&gt;77ae7b01c3ee47104e3c3f0d050131e8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_security_acl_ce718495c3ee47104e3c3f0d05013143&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;system&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-08-07 16:51:03&lt;/sys_updated_on&gt;&lt;type display_value="record"&gt;record&lt;/type&gt;&lt;/sys_security_acl&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>616997520</payload_hash>
+        <record_name>x_1860165_seneca_0_device_request</record_name>
+        <reverted_from/>
+        <source>33f46d62c32e03504e3c3f0d050131a7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-09 21:35:36</sys_created_on>
+        <sys_id>af05a5a2c32e03504e3c3f0d05013135</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19fe873e33a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-09 21:35:36</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>6f05a5a2bc2e0350746260e7384fd735</update_guid>
+        <update_guid_history>875e0da27e6a0350289e8bdf13266caa:0,7bb09275f262cb103137e014507cacc3:616997520,42718495a3ee4710ebabef1b7e962b96:-1344176004</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2026-08-11 21:01:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>6bb323b663c14e3db48e4dcf68b505c1</sys_id>
+        <sys_metadata>ce718495c3ee47104e3c3f0d05013143</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1860165_seneca_0_device_request</sys_name>
+        <sys_package display_value="SenecaTech" source="x_1860165_seneca_0">77ae7b01c3ee47104e3c3f0d050131e8</sys_package>
+        <sys_parent display_value="x_1860165_seneca_0_device_request">a871c095c3ee47104e3c3f0d05013155</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="SenecaTech">77ae7b01c3ee47104e3c3f0d050131e8</sys_scope>
+        <sys_scope_delete display_value="">3290306a4fbb446dabf45bbe56d162e1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_ce718495c3ee47104e3c3f0d05013143</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_ce718495c3ee47104e3c3f0d05013143">af05a5a2c32e03504e3c3f0d05013135</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2026-08-11 21:01:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
