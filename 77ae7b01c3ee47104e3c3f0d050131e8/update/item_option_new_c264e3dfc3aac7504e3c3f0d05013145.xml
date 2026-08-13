@@ -10,7 +10,7 @@
         <conversational_label/>
         <create_roles/>
         <default_html_value/>
-        <default_value/>
+        <default_value>javascript:gs.getUserID()</default_value>
         <delete_roles/>
         <delivery_plan/>
         <description/>
@@ -84,14 +84,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-08-12 14:51:06</sys_created_on>
         <sys_id>c264e3dfc3aac7504e3c3f0d05013145</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Requester Name</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="SenecaTech">77ae7b01c3ee47104e3c3f0d050131e8</sys_scope>
         <sys_update_name>item_option_new_c264e3dfc3aac7504e3c3f0d05013145</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-08-12 15:02:55</sys_updated_on>
+        <sys_updated_on>2026-08-13 01:49:25</sys_updated_on>
         <table/>
         <tooltip/>
         <topic_block/>
