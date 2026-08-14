@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_map">
+    <sys_transform_map action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copy_empty_fields>false</copy_empty_fields>
+        <create_new_record_on_empty_coalesce_fields>false</create_new_record_on_empty_coalesce_fields>
+        <enforce_mandatory_fields>Only Mapped Fields</enforce_mandatory_fields>
+        <name>Device transform </name>
+        <order>100</order>
+        <run_business_rules>true</run_business_rules>
+        <run_script>true</run_script>
+        <script><![CDATA[(function transformRow(source, target, map, log, isUpdate) {
+
+if(source.u_quantity>2 && target.u_string_2==''){
+	target.u_string_2 = 'it will be provided soon';
+}
+
+})(source, target, map, log, action==="update");]]></script>
+        <source_table>x_1860165_seneca_0_device_data</source_table>
+        <sys_class_name>sys_transform_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-14 01:31:18</sys_created_on>
+        <sys_id>0e01c3ffc366cb504e3c3f0d05013104</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Device transform </sys_name>
+        <sys_package display_value="SenecaTech" source="x_1860165_seneca_0">77ae7b01c3ee47104e3c3f0d050131e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SenecaTech">77ae7b01c3ee47104e3c3f0d050131e8</sys_scope>
+        <sys_update_name>sys_transform_map_0e01c3ffc366cb504e3c3f0d05013104</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-14 03:55:24</sys_updated_on>
+        <target_table>x_1860165_seneca_0_device_request</target_table>
+    </sys_transform_map>
+</record_update>

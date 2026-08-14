@@ -26,4 +26,5 @@ If you find yourself unable to import your repository due to the presence of fil
    Currently listed dependencies:
    * Configuration Management (CMDB)
    * Task table schema
+   * System Import Sets
    * System Import Data Source
