@@ -11,10 +11,19 @@
         <name>Hide the section(details delivery)</name>
         <order/>
         <script><![CDATA[function onLoad() {
-   //Type appropriate comment here, and begin script below
-   if(g_form.getValue('u_reference_1')==''){
-   g_form.setSectionDisplay('device_details',false);
-   g_form.setSectionDisplay('delivery_details',false);
+    //Type appropriate comment here, and begin script below
+    if (g_form.getValue('u_reference_1') == '') {
+        g_form.setSectionDisplay('device_details', false);
+        g_form.setSectionDisplay('delivery_details', false);
+    } else {
+        g_form.getReference('u_reference_1', getDetails);
+        function getDetails(details){
+            g_form.setValue('u_model', details.model_number);
+            g_form.setValue('u_string_full_utf8_8', details.short_description);
+            g_form.setValue('u_price_10', details.u_price_2);
+            g_form.setValue('u_glide_date_11', details.warranty_expiration);
+        }
+	}
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -22,7 +31,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>0b59a1b6c32e83504e3c3f0d050131ea</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Hide the section(details delivery)</sys_name>
         <sys_overrides/>
         <sys_package display_value="SenecaTech" source="x_1860165_seneca_0">77ae7b01c3ee47104e3c3f0d050131e8</sys_package>
@@ -30,7 +39,7 @@
         <sys_scope display_value="SenecaTech">77ae7b01c3ee47104e3c3f0d050131e8</sys_scope>
         <sys_update_name>sys_script_client_0b59a1b6c32e83504e3c3f0d050131ea</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-08-10 20:01:28</sys_updated_on>
+        <sys_updated_on>2026-08-13 18:54:19</sys_updated_on>
         <table>x_1860165_seneca_0_device_request</table>
         <type>onLoad</type>
         <ui_type>10</ui_type>

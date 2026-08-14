@@ -6,13 +6,18 @@
         <element attributes="edge_encryption_enabled=true" label="Device Description" max_length="1000" name="u_string_full_utf8_8" read_only="true" read_only_option="instance_configured" type="string_full_utf8"/>
         <element attributes="encode_utf8=false" label="Device Name" mandatory="true" max_length="32" name="u_reference_1" reference="x_1860165_seneca_0_ai_device" type="reference"/>
         <element label="Demo" max_length="40" name="demo" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Reminder for pick up" max_length="40" name="reminder_for_pickup" type="glide_date"/>
+        <element attributes="omit_sys_original=true" label="Total Cost" max_length="20" name="total_cost" read_only="true" read_only_option="instance_configured" type="currency"/>
+        <element attributes="encode_utf8=false" label="Company" max_length="32" name="core_company" reference="core_company" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Delivery Date" max_length="40" name="u_glide_date_4" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="Business Justification" max_length="40" name="u_string_2" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="State" max_length="40" name="u_choice_1" type="string">
             <choice>
                 <element inactive_on_update="false" label="Canceled" sequence="1" value="canceled"/>
                 <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="0" value="Choice 3"/>
+                <element inactive_on_update="false" label="Delivery failed" sequence="2" value="delivery failed"/>
                 <element inactive_on_update="false" label="Delivered" sequence="0" value="delivered"/>
+                <element inactive_on_update="false" label="In Progress" sequence="3" value="In Progress"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Model" max_length="255" name="u_model" read_only="true" read_only_option="instance_configured" type="string_full_utf8"/>
