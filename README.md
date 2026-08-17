@@ -179,7 +179,7 @@ source described in Part 6 — not used operationally once the transform has run
 Access is enforced with a consistent pattern: **Device Management owns the data**
 (full CRUD), while **Release Management and Dispatch Management get the specific
 read/write access their role in the workflow actually requires**.
-![image alt](https://github.com/anehri/SenecaTech/blob/0bcaffb7d3fcb40761674324548bf7be382da785/Screenshot%202026-08-10%20163812.png)
+
 
 ### AI Device — Table & Field ACLs
 
