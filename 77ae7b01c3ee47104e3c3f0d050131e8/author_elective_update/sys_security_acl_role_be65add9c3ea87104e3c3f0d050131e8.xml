@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-06 00:24:47</sys_created_on>
+        <sys_id>be65add9c3ea87104e3c3f0d050131e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1860165_seneca_0_ai_device.x_1860165_seneca_0.release_management</sys_name>
+        <sys_package display_value="SenecaTech" source="x_1860165_seneca_0">77ae7b01c3ee47104e3c3f0d050131e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SenecaTech">77ae7b01c3ee47104e3c3f0d050131e8</sys_scope>
+        <sys_security_acl display_value="x_1860165_seneca_0_ai_device">fe65add9c3ea87104e3c3f0d050131c6</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_be65add9c3ea87104e3c3f0d050131e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-06 00:24:47</sys_updated_on>
+        <sys_user_role display_value="x_1860165_seneca_0.release_management" name="x_1860165_seneca_0.release_management">3faebb01c3ee47104e3c3f0d0501310b</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SenecaTech">77ae7b01c3ee47104e3c3f0d050131e8</application>
+        <file_path/>
+        <instance_id>7c207c323b864750986d048aa4e45a4e</instance_id>
+        <instance_name>dev439282</instance_name>
+        <name>sys_security_acl_role_be65add9c3ea87104e3c3f0d050131e8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-08-06 00:24:47</sys_created_on><sys_id>be65add9c3ea87104e3c3f0d050131e8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1860165_seneca_0_ai_device.x_1860165_seneca_0.release_management</sys_name><sys_package display_value="SenecaTech" source="x_1860165_seneca_0">77ae7b01c3ee47104e3c3f0d050131e8</sys_package><sys_policy/><sys_scope display_value="SenecaTech">77ae7b01c3ee47104e3c3f0d050131e8</sys_scope><sys_security_acl display_value="x_1860165_seneca_0_ai_device">fe65add9c3ea87104e3c3f0d050131c6</sys_security_acl><sys_update_name>sys_security_acl_role_be65add9c3ea87104e3c3f0d050131e8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-08-06 00:24:47</sys_updated_on><sys_user_role display_value="x_1860165_seneca_0.release_management" name="x_1860165_seneca_0.release_management">3faebb01c3ee47104e3c3f0d0501310b</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1374541114</payload_hash>
+        <record_name>x_1860165_seneca_0_ai_device.x_1860165_seneca_0.release_management</record_name>
+        <reverted_from/>
+        <source>33f46d62c32e03504e3c3f0d050131a7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-09 21:35:38</sys_created_on>
+        <sys_id>8c15e5a2c32e03504e3c3f0d05013154</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19fe873ea170000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-09 21:35:38</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>4c15e5a21a2e03502c0ac1f86fdff554</update_guid>
+        <update_guid_history>a05e81a2a26a03507a091d2ce023b619:986597187,7a65edd9f2ea871097f978856c98aa6d:1374541114</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1860165_seneca_0_ai_device.x_1860165_seneca_0.release_management">4850e34bc3aa47504e3c3f0d05013139</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-11 19:51:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>1cb508d1a5434b2094c75d5ba332f840</sys_id>
+        <sys_metadata>be65add9c3ea87104e3c3f0d050131e8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1860165_seneca_0_ai_device.x_1860165_seneca_0.release_management</sys_name>
+        <sys_package display_value="SenecaTech" source="x_1860165_seneca_0">77ae7b01c3ee47104e3c3f0d050131e8</sys_package>
+        <sys_parent display_value="">fe65add9c3ea87104e3c3f0d050131c6</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="SenecaTech">77ae7b01c3ee47104e3c3f0d050131e8</sys_scope>
+        <sys_scope_delete display_value="">3290306a4fbb446dabf45bbe56d162e1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_be65add9c3ea87104e3c3f0d050131e8</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_be65add9c3ea87104e3c3f0d050131e8">8c15e5a2c32e03504e3c3f0d05013154</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-11 19:51:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
