@@ -1,5 +1,7 @@
 # SenecaTech
 ServiceNow ITSM  Drone AI custom workflows, scripts, and automations.
+demonstration of many skillset of system adminsration by Anas Nehri 
+
 # SenecaTech — AI Device Ordering Platform (ServiceNow Custom Application)
 
 ## Objective
