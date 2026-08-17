@@ -191,7 +191,7 @@ read/write access their role in the workflow actually requires**.
 | delete | `device_management` |
 
 **Field ACL — `owned_by`:** read access limited to `release_management`, `device_management`
-
+![image alt](https://github.com/anehri/SenecaTech/blob/0bcaffb7d3fcb40761674324548bf7be382da785/Screenshot%202026-08-10%20163812.png)
 ### Device Request — Table ACLs
 
 | Operation | Roles Granted Access | Notes |
@@ -207,7 +207,7 @@ were superseded by the current, tighter three-role model above — the final ACL
 set only grants the three operational roles the access shown here.
 
 ---
-![image alt](https://github.com/anehri/SenecaTech/blob/0bcaffb7d3fcb40761674324548bf7be382da785/Screenshot%202026-08-10%20163502.png)
+
 
 
 ## Part 3 — Module & Application Access
