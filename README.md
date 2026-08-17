@@ -172,13 +172,14 @@ source described in Part 6 — not used operationally once the transform has run
 | Delivery Date | Delivery Date |
 
 ---
-
+![image alt](https://github.com/anehri/SenecaTech/blob/0bcaffb7d3fcb40761674324548bf7be382da785/Screenshot%202026-08-09%20153708.png)
 
 ## Part 2 — Access Control Lists (ACLs)
 
 Access is enforced with a consistent pattern: **Device Management owns the data**
 (full CRUD), while **Release Management and Dispatch Management get the specific
 read/write access their role in the workflow actually requires**.
+![image alt](https://github.com/anehri/SenecaTech/blob/0bcaffb7d3fcb40761674324548bf7be382da785/Screenshot%202026-08-10%20163812.png)
 
 ### AI Device — Table & Field ACLs
 
@@ -206,6 +207,7 @@ were superseded by the current, tighter three-role model above — the final ACL
 set only grants the three operational roles the access shown here.
 
 ---
+![image alt](https://github.com/anehri/SenecaTech/blob/0bcaffb7d3fcb40761674324548bf7be382da785/Screenshot%202026-08-10%20163502.png)
 
 
 ## Part 3 — Module & Application Access
@@ -225,6 +227,7 @@ keeps the navigation itself clean and role-appropriate (Dispatch and Release use
 aren't shown "Create" options they aren't permitted to use).
 
 ---
+![image alt](https://github.com/anehri/SenecaTech/blob/0bcaffb7d3fcb40761674324548bf7be382da785/Screenshot%202026-08-10%20162831.png)
 
 
 ## Part 4 — Order AI Devices (Service Catalog Item)
@@ -300,6 +303,7 @@ function onChange(control, oldValue, newValue, isLoading, isTemplate) {
     }
 }
 ```
+![imgage alt](https://github.com/anehri/SenecaTech/blob/0bcaffb7d3fcb40761674324548bf7be382da785/Screenshot%202026-08-13%20131619.png)
 
 **"Hide the section(details delivery)"** — `onLoad`, mirrors the same logic so
 the Device Details and Delivery Details sections start hidden on a blank form
@@ -314,7 +318,7 @@ and populate correctly when reopening a record that already has a device selecte
 | Hide/Mandatory Delivery date field | Conditional handling of the Delivery Date field |
 
 ---
-
+![imgage alt](https://github.com/anehri/SenecaTech/blob/0bcaffb7d3fcb40761674324548bf7be382da785/Screenshot%202026-08-10%20115326.png)
 
 ## Part 6 — Delivery-Failure Handling (Enhancement)
 
@@ -353,7 +357,7 @@ found in the current source export, so it's the clear next build step to close
 the loop on this enhancement (see Part 9).
 
 ---
-
+![imgage alt](https://github.com/anehri/SenecaTech/blob/0bcaffb7d3fcb40761674324548bf7be382da785/Screenshot%202026-08-13%20181928.png)
 
 ## Part 7 — Historical Data Import
 
@@ -428,7 +432,7 @@ confirm the requester receives the "Reminder to the user" email with the correct
 order number and device name substituted into the subject and body.
 
 ---
-
+![imgage alt](https://github.com/anehri/SenecaTech/blob/0bcaffb7d3fcb40761674324548bf7be382da785/Screenshot%202026-08-13%20190754.png)
 
 ## Part 9 — Next Steps / Known Gaps
 
