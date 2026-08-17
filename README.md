@@ -156,6 +156,7 @@ Extends `task`. This is the working order record.
 | Price (`u_string_full_utf8_9`) | String (read-only) | |
 | Demo (`demo`) | String | |
 
+![imgage alt](https://github.com/anehri/SenecaTech/blob/5132a20e60cc7554b9208ba78aa6b8b3e9650a8d/Screenshot%202026-08-10%20153148.png)
 ### Table 3: device data (Import Staging Table)
 
 Extends `sys_import_set_row`. Used purely as the landing table for the Excel data
