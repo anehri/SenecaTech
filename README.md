@@ -127,6 +127,7 @@ process gets replaced by a ServiceNow application.
 
 Extends `cmdb_ci`, so it inherits standard CI fields (model number, short description,
 warranty expiration, etc.) in addition to two custom fields:
+![imgage alt](https://github.com/anehri/SenecaTech/blob/ac12c7926273270272bdb648742689085678ba61/Screenshot%202026-08-06%20082118.png)
 
 | Field (Label) | Type | Details |
 | --- | --- | --- |
