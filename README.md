@@ -172,7 +172,7 @@ source described in Part 6 — not used operationally once the transform has run
 | Delivery Date | Delivery Date |
 
 ---
-![image alt](https://github.com/anehri/SenecaTech/blob/0bcaffb7d3fcb40761674324548bf7be382da785/Screenshot%202026-08-09%20153708.png)
+
 
 ## Part 2 — Access Control Lists (ACLs)
 
