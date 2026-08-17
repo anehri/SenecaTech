@@ -31,6 +31,8 @@ demonstration of many skillset of system adminsration by Anas Nehri
 - Event-driven email notifications
 - Scoped application development and GitHub source control integration
 
+  ![imgage alt](https://github.com/anehri/SenecaTech/blob/a1201de9e8ebdaa4d0379cf58658bb310abe3d7c/Screenshot%202026-08-13%20181934.png)
+
 
 ## Tools & Technologies Used
 
